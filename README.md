@@ -13,7 +13,7 @@ Introduction to geospatial analysis with Python. This course will introduce the 
 ## The following notebooks are provided.
 Day 1.
 
-- Python tutorial. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jun8CVZaAOlPN7SVHNZlv_zoTTepsQEA)
+- Python tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jun8CVZaAOlPN7SVHNZlv_zoTTepsQEA)
 
 - Working with shapefiles [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kuDZZxWRaGvJfR3yg0cGcFud2RvbCGyi)
 
