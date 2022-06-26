@@ -11,7 +11,8 @@ Introduction to geospatial analysis with Python. This course will introduce the 
 - ML for GIS applications (Wednesday, lecture + practical)
 
 ## The following notebooks are provided.
-Day 1.
+**Day 1.**
+During day one of our course, we go through the basic terms of geospatial analysis, like shapefile, raster and vector data, projections, types of satellites energy sources.
 
 - Python tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XnIkZguiEXyCp0YEZZu4KbwS978P3fpo)
 
@@ -25,5 +26,10 @@ Day 1.
 
 - a bit more on GDAL [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MjxU1-JV3JMk0T9Wgxwzq4g0KHSC9AkW)
 
+
+**Day 2.**
+During day two of our course, we will go deeper into the types of satellite imagery analysis. In our lecture, we will go through the SDGs and try to undertand how satellite imagery can help inform our decisions in various businesses and help to make them more sustainable. During the practical, we will further explore working with raster data.
+
+- Working with staellite imagery: rasterio  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uUteCkNpL1DeASpKonX4BvtcUF5llubk)
 
 
