@@ -32,4 +32,14 @@ During day two of our course, we will go deeper into the types of satellite imag
 
 - Working with staellite imagery: rasterio  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uUteCkNpL1DeASpKonX4BvtcUF5llubk)
 
+- Masking and clipping [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Dl66y5FoyEjYxb4_bxjS5GXNDZ56GU1X)
+
+- Raster boundaries [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oxtWFME3nU4_y991BQ8BRrG6cXw7HZQu)
+
+- Clustering [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WvOi-2BaEQC0u6ciyGEAnfdPWclekWzk)
+
+
+
+
+
 
