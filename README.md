@@ -39,6 +39,8 @@ During day two of our course, we will go deeper into the types of satellite imag
 - Clustering [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WvOi-2BaEQC0u6ciyGEAnfdPWclekWzk)
 
 
+- Random forests [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bZFd_T3i1Lxr3uzRE--e_ZBcRFm_SFvF?usp=sharing)
+
 
 
 
