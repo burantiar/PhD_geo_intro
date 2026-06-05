@@ -3,7 +3,7 @@
 
 Introduction to geospatial analysis with Python. This course will introduce the main concepts of geospatial data analysis. Student will learn to acquire and interpret satellite imagery and extract important geospatial data using Python programming language. This course is suitable for all levels, but basic knowledge of Python is required. 
 
-We recommend to take this course after the [![Python Course](burantiar/QMUL_PHD_PYTHON)] and [![Introduction to AI Course](burantiar/QMUL_PhD)]
+We recommend taking this course after the [Python Course](https://github.com/burantiar/QMUL_PHD_PYTHON) and [Introduction to AI Course](https://github.com/burantiar/QMUL_PhD).
 
 ## This course consists of 4 parts:
 
