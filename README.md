@@ -1,13 +1,15 @@
 # BAAE - Elective modules -Introduction to geospatial analysis with Python
 
 
-Introduction to geospatial analysis with Python. This course will introduce the main concepts of geospatial data analysis. Student will learn to acquire and interpret satellite imagery and extract important geospatial data using Python programming language. This course is suitable for all levels, but basic knowledge of Python is desirable. 
+Introduction to geospatial analysis with Python. This course will introduce the main concepts of geospatial data analysis. Students will learn to acquire and interpret satellite imagery and extract important geospatial data using Python programming language. This course is suitable for all levels, but basic knowledge of Python is required. 
+
+We recommend taking this course after the [Python Course](https://github.com/burantiar/QMUL_PHD_PYTHON) and [Introduction to AI Course](https://github.com/burantiar/QMUL_PhD).
 
 ## This course consists of 4 parts:
 
 1. Working with raster data. Downloading and processing of the satellite imagery. Main Python packages: rasterio and gdal.
-2. Basic computer vision and ML tools for satellite imagery (Optical Flow etc.) Working with zarr arrays. Working example: cloud movement for solar energy prediction.
-3. Neural Networks for working with satellite data. Semantic Segmentation. Change detection. Working examples: urban landscapes and agriculture.
+2. Basic computer vision and ML tools for satellite imagery (Optical Flow etc.) Working with zarr arrays. Working example: cloud movement forcasting.
+3. Neural Networks for working with satellite data. Semantic Segmentation. Change detection. Working example: urban landscapes.
 4. Geospatial foundation models and space embeddings.
 
 
